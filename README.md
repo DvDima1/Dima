@@ -1,1 +1,2 @@
-######Privet, ya dima. Vse.######
+Privet, ya dima.
+Vse.
